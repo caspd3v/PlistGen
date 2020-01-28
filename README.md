@@ -1,8 +1,8 @@
-#PlistGen
+# PlistGen
 
 PlistGen is a tool to generate plists for cydia alternatives to link your ipas to your app.
 
-##Permissions
+## Permissions
 
 cd into PlistGen's directory.
 
@@ -10,23 +10,23 @@ cd into PlistGen's directory.
 chmod +x plistgen.py
 '''
 
-##Running
+## Running
 
 cd into PlistGen's directory.
 
 Mac & Linux
 
-'''bash
+```bash
 python3 plistgen.py
-'''
+```
 
 cd into PlistGen's directory.
 
-'''bash
+```bash
 C:\Windows\py.exe plistgen.py
-'''
+```
 
-##Feilds
+## Feilds
 
 1. .plist Name: "The name of the plist when its generated."
 2. .ipa Link: "The link to your .ipa file on a server."
@@ -34,6 +34,6 @@ C:\Windows\py.exe plistgen.py
 4. Bundle ID: "The .ipa bundle id." Example: co.eonhub.app
 5. Label: "The text that comes up when you click install on your iDevice."
 
-##Licence
+## Licence
 
 [Casp's Website](https://casp.dev)
