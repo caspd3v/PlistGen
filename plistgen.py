@@ -26,4 +26,4 @@ print ("Done.")
 
 print ("--------------------------")
 print ("Install Link:")
-print ('itms-services://?action=download-manifest&url='+plistUrl+'.plist')
+print ('itms-services://?action=download-manifest&url='+plistUrl+'')
