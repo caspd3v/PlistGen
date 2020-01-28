@@ -22,6 +22,7 @@ python3 plistgen.py
 
 cd into PlistGen's directory.
 
+Windows
 ```bash
 C:\Windows\py.exe plistgen.py
 ```
